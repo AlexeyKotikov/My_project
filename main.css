@@ -504,7 +504,7 @@ li.news__item:last-child {
 
 .footer {
     position: relative;
-    height: 152px;
+    height: 132px;
 }
 
 .logo__img {
@@ -711,4 +711,8 @@ li.news__item:last-child {
     height: 100px;
     align-items: center;
     justify-content: center;
+}
+
+.footer-container__main {
+    height: 152px;
 }
