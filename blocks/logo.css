@@ -1,0 +1,15 @@
+.logo__img {
+    height: auto; 
+    max-width: 100%;
+}
+
+.logo {
+    /* display: block; */
+    /* height: 36px; */
+    /* left: 0px; */
+    display: block;
+    width: 100px;
+    margin-right: 65px;
+    
+
+}

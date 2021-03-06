@@ -1,0 +1,28 @@
+.footer-container__content {
+    border-top: 1px solid rgba(255, 255, 255,0.1);
+    padding-top: 45px;
+}
+
+.footer {
+    position: relative;
+    height: 132px;
+}
+
+.footer-container__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__col {
+    display: flex;
+    align-items: center;
+
+}
+
+.footer-container__main {
+    padding-bottom: 53px;
+}
+
+.footer-container {
+    padding-bottom: 32px;
+}

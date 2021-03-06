@@ -1,0 +1,23 @@
+.intro {
+    margin-bottom: 246px;
+}
+
+.intro__container {
+    margin: 0 auto;
+    width: 1140px;
+    position: relative;
+}
+
+.intro__title {
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-bottom: 27px;    
+    width: 520px;
+}
+
+.intro__detail {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 34px;
+}
